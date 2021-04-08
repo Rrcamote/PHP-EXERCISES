@@ -33,7 +33,7 @@
         <?php
                 $json_array = json_decode('[
                     {
-                        "name" : "John Garg",
+                        "name" : "James Belda",
                         "age"  : "15",
                         "school" : "Ahlcon Public school"
                         },
