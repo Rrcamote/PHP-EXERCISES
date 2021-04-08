@@ -31,7 +31,7 @@
                 <div class="card-body bg-info">
                 <form action="" method="post">
                 <label for="" class="form-label">Quantity1:</label>
-                <input type="text" class="form-control" name="q1" value="70">
+                <input type="text" class="form-control" name="q1" value="200">
                 <label for="" class="form-label">Quantity2:</label>
                 <input type="text" class="form-control" name="q2" value="100">
                 <label for="" class="form-label">Price1:</label>
