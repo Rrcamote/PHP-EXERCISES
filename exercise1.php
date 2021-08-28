@@ -18,7 +18,7 @@
 </style>
 </head>
 <body>
-<nav class="bg-dark pb-5">
+<nav class="bg-info pb-5">
     <h2 class="text-white text-center pt-5">EXERCISE 1</h2>
 </nav>
 <br>
